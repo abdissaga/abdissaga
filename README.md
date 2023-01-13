@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on start up projects
-- 📫 How to reach me 
+- 📫 How to reach me abdiethio97@gmail.com
 
 <!---
 abdissaga/abdissaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
